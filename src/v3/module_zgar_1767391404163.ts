@@ -1,0 +1,1 @@
+const util_zgar = (d: any) => d;
