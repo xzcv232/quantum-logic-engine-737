@@ -1,0 +1,1 @@
+const service_8adu = <T>(args: T): T => { return args; };
